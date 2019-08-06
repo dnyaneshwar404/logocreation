@@ -1,0 +1,404 @@
+{
+    "companyList": [
+    {
+		"CompanyId": "C001",
+		"Company Name": "Walmart"
+	},
+	{
+		"CompanyId": "C002",
+		"Company Name": "Exxon Mobil"
+	},
+	{
+		"CompanyId": "C003",
+		"Company Name": "Berkshire Hathaway"
+	},
+	{
+		"CompanyId": "C004",
+		"Company Name": "Apple"
+	},
+	{
+		"CompanyId": "C005",
+		"Company Name": "UnitedHealth Group"
+	},
+	{
+		"CompanyId": "C006",
+		"Company Name": "McKesson"
+	},
+	{
+		"CompanyId": "C007",
+		"Company Name": "CVS Health"
+	},
+	{
+		"CompanyId": "C008",
+		"Company Name": "Amazon.com"
+	},
+	{
+		"CompanyId": "C009",
+		"Company Name": "AT&T"
+	},
+	{
+		"CompanyId": "C010",
+		"Company Name": "General Motors"
+	},
+	{
+		"CompanyId": "C011",
+		"Company Name": "Ford Motor"
+	},
+	{
+		"CompanyId": "C012",
+		"Company Name": "AmerisourceBergen"
+	},
+	{
+		"CompanyId": "C013",
+		"Company Name": "Chevron"
+	},
+	{
+		"CompanyId": "C014",
+		"Company Name": "Cardinal Health"
+	},
+	{
+		"CompanyId": "C015",
+		"Company Name": "Costco"
+	},
+	{
+		"CompanyId": "C016",
+		"Company Name": "Verizon"
+	},
+	{
+		"CompanyId": "C017",
+		"Company Name": "Kroger"
+	},
+	{
+		"CompanyId": "C018",
+		"Company Name": "General Electric"
+	},
+	{
+		"CompanyId": "C019",
+		"Company Name": "Walgreens Boots Alliance"
+	},
+	{
+		"CompanyId": "C020",
+		"Company Name": "JPMorgan Chase"
+	},
+	{
+		"CompanyId": "C021",
+		"Company Name": "Fannie Mae"
+	},
+	{
+		"CompanyId": "C022",
+		"Company Name": "Alphabet"
+	},
+	{
+		"CompanyId": "C023",
+		"Company Name": "Home Depot"
+	},
+	{
+		"CompanyId": "C024",
+		"Company Name": "Bank of America Corp."
+	},
+	{
+		"CompanyId": "C025",
+		"Company Name": "Express Scripts Holding"
+	},
+	{
+		"CompanyId": "C026",
+		"Company Name": "Wells Fargo"
+	},
+	{
+		"CompanyId": "C027",
+		"Company Name": "Boeing"
+	},
+	{
+		"CompanyId": "C028",
+		"Company Name": "Phillips 66"
+	},
+	{
+		"CompanyId": "C029",
+		"Company Name": "Anthem"
+	},
+	{
+		"CompanyId": "C030",
+		"Company Name": "Microsoft"
+	},
+	{
+		"CompanyId": "C031",
+		"Company Name": "Valero Energy"
+	},
+	{
+		"CompanyId": "C032",
+		"Company Name": "Citigroup"
+	},
+	{
+		"CompanyId": "C033",
+		"Company Name": "Comcast"
+	},
+	{
+		"CompanyId": "C034",
+		"Company Name": "IBM"
+	},
+	{
+		"CompanyId": "C035",
+		"Company Name": "Dell Technologies"
+	},
+	{
+		"CompanyId": "C036",
+		"Company Name": "State Farm Insurance Cos."
+	},
+	{
+		"CompanyId": "C037",
+		"Company Name": "Johnson & Johnson"
+	},
+	{
+		"CompanyId": "C038",
+		"Company Name": "Freddie Mac"
+	},
+	{
+		"CompanyId": "C039",
+		"Company Name": "Target"
+	},
+	{
+		"CompanyId": "C040",
+		"Company Name": "Lowe’s"
+	},
+	{
+		"CompanyId": "C041",
+		"Company Name": "Marathon Petroleum"
+	},
+	{
+		"CompanyId": "C042",
+		"Company Name": "Procter & Gamble"
+	},
+	{
+		"CompanyId": "C043",
+		"Company Name": "MetLife"
+	},
+	{
+		"CompanyId": "C044",
+		"Company Name": "UPS"
+	},
+	{
+		"CompanyId": "C045",
+		"Company Name": "PepsiCo"
+	},
+	{
+		"CompanyId": "C046",
+		"Company Name": "Intel"
+	},
+	{
+		"CompanyId": "C047",
+		"Company Name": "DowDuPont"
+	},
+	{
+		"CompanyId": "C048",
+		"Company Name": "Archer Daniels Midland"
+	},
+	{
+		"CompanyId": "C049",
+		"Company Name": "Aetna"
+	},
+	{
+		"CompanyId": "C050",
+		"Company Name": "FedEx"
+	},
+	{
+		"CompanyId": "C051",
+		"Company Name": "United Technologies"
+	},
+	{
+		"CompanyId": "C052",
+		"Company Name": "Prudential Financial"
+	},
+	{
+		"CompanyId": "C053",
+		"Company Name": "Albertsons Cos."
+	},
+	{
+		"CompanyId": "C054",
+		"Company Name": "Sysco"
+	},
+	{
+		"CompanyId": "C055",
+		"Company Name": "Disney"
+	},
+	{
+		"CompanyId": "C056",
+		"Company Name": "Humana"
+	},
+	{
+		"CompanyId": "C057",
+		"Company Name": "Pfizer"
+	},
+	{
+		"CompanyId": "C058",
+		"Company Name": "HP"
+	},
+	{
+		"CompanyId": "C059",
+		"Company Name": "Lockheed Martin"
+	},
+	{
+		"CompanyId": "C060",
+		"Company Name": "AIG"
+	},
+	{
+		"CompanyId": "C061",
+		"Company Name": "Centene"
+	},
+	{
+		"CompanyId": "C062",
+		"Company Name": "Cisco Systems"
+	},
+	{
+		"CompanyId": "C063",
+		"Company Name": "HCA Healthcare"
+	},
+	{
+		"CompanyId": "C064",
+		"Company Name": "Energy Transfer Equity"
+	},
+	{
+		"CompanyId": "C065",
+		"Company Name": "Caterpillar"
+	},
+	{
+		"CompanyId": "C066",
+		"Company Name": "Nationwide"
+	},
+	{
+		"CompanyId": "C067",
+		"Company Name": "Morgan Stanley"
+	},
+	{
+		"CompanyId": "C068",
+		"Company Name": "Liberty Mutual Insurance Group"
+	},
+	{
+		"CompanyId": "C069",
+		"Company Name": "New York Life Insurance"
+	},
+	{
+		"CompanyId": "C070",
+		"Company Name": "Goldman Sachs Group"
+	},
+	{
+		"CompanyId": "C071",
+		"Company Name": "American Airlines Group"
+	},
+	{
+		"CompanyId": "C072",
+		"Company Name": "Best Buy"
+	},
+	{
+		"CompanyId": "C073",
+		"Company Name": "Cigna"
+	},
+	{
+		"CompanyId": "C074",
+		"Company Name": "Charter Communications"
+	},
+	{
+		"CompanyId": "C075",
+		"Company Name": "Delta Air Lines"
+	},
+	{
+		"CompanyId": "C076",
+		"Company Name": "Facebook"
+	},
+	{
+		"CompanyId": "C077",
+		"Company Name": "Honeywell International"
+	},
+	{
+		"CompanyId": "C078",
+		"Company Name": "Merck"
+	},
+	{
+		"CompanyId": "C079",
+		"Company Name": "Allstate"
+	},
+	{
+		"CompanyId": "C080",
+		"Company Name": "Tyson Foods"
+	},
+	{
+		"CompanyId": "C081",
+		"Company Name": "United Continental Holdings"
+	},
+	{
+		"CompanyId": "C082",
+		"Company Name": "Oracle"
+	},
+	{
+		"CompanyId": "C083",
+		"Company Name": "Tech Data"
+	},
+	{
+		"CompanyId": "C084",
+		"Company Name": "TIAA"
+	},
+	{
+		"CompanyId": "C085",
+		"Company Name": "TJX"
+	},
+	{
+		"CompanyId": "C086",
+		"Company Name": "American Express"
+	},
+	{
+		"CompanyId": "C087",
+		"Company Name": "Coca-Cola"
+	},
+	{
+		"CompanyId": "C088",
+		"Company Name": "Publix Super Markets"
+	},
+	{
+		"CompanyId": "C089",
+		"Company Name": "Nike"
+	},
+	{
+		"CompanyId": "C090",
+		"Company Name": "Andeavor"
+	},
+	{
+		"CompanyId": "C091",
+		"Company Name": "World Fuel Services"
+	},
+	{
+		"CompanyId": "C092",
+		"Company Name": "Exelon"
+	},
+	{
+		"CompanyId": "C093",
+		"Company Name": "Massachusetts Mutual Life Insurance"
+	},
+	{
+		"CompanyId": "C094",
+		"Company Name": "Rite Aid"
+	},
+	{
+		"CompanyId": "C095",
+		"Company Name": "ConocoPhillips"
+	},
+	{
+		"CompanyId": "C096",
+		"Company Name": "CHS"
+	},
+	{
+		"CompanyId": "C097",
+		"Company Name": "3M"
+	},
+	{
+		"CompanyId": "C098",
+		"Company Name": "Time Warner"
+	},
+	{
+		"CompanyId": "C099",
+		"Company Name": "General Dynamics"
+	},
+	{
+		"CompanyId": "C100",
+		"Company Name": "USAA"
+	}
+    ]
+}

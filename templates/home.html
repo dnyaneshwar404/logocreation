@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script src="{{url_for('static',filename='jquery.min.js')}}"></script>
+        <script src="{{url_for('static',filename='app.js')}}"></script>
+        <link rel="stylesheet" href="{{url_for('static',filename='main.css')}}">
+
+    </head>
+    <body>
+        <h1>
+            Welcome to Logo Charecters Createor!
+        </h1>
+         <p>Enter id of the company <input type = "text" id="cid" value="C001" name = "companyId" /> 
+         <button onclick="getLogoCharecters()">Get Logo Charectors</button>
+          <div id="resultDiv">
+                Company id : <span class="result cid"></span> <br>
+                Company name : <span class="result cname"></span> <br>
+                Company logo charectors : <span class="result logochars"></span> <br>
+          </div>
+          <div id="errorDiv">
+                <span class="error"></span> <br>
+          </div>
+   </body>
+</html>
